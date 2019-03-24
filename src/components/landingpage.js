@@ -12,12 +12,13 @@ class LandingPage extends Component {
                 <div className="avatar-img">
                   <ExampleComponent image={image} />
                 </div>
+                
                 <div className="banner-text">
                   <h1>Full Stack Web Developer</h1>
 
                   <hr />
                   <p>
-                    HTML | CSS | REACT | JAVA | C++ | MONGO | PYTHON |
+                    HTML | CSS | REACT | JAVA | C++ | MONGO | PYTHON | SMPP| 
                     ORACLE{" "}
                   </p>
                   <div className="social-links">
